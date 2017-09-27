@@ -2,10 +2,20 @@
 <resources>
 	<string name="hello">Hello World, Click Me!</string>
 	<string name="app_name">POC_BottomSheetDialog.Droid</string>
+	<string name="btn_static">Open static BottomSheetDialog</string>
+	<string name="btn_list">Open ListView BottomSheetDialog</string>
 
 	<string name="bottom_sheet_dialog_title">Actions</string>
     <string name="bottom_sheet_dialog_action1">Action1</string>
     <string name="bottom_sheet_dialog_action2">Action2</string>
     <string name="bottom_sheet_dialog_action3">Action3</string>
     <string name="bottom_sheet_dialog_action4">Action4</string>
+    <string name="bottom_sheet_dialog_action5">Action5</string>
+    <string name="bottom_sheet_dialog_action6">Action6</string>
+    <string name="bottom_sheet_dialog_action7">Action7</string>
+    <string name="bottom_sheet_dialog_action8">Action8</string>
+    <string name="bottom_sheet_dialog_action9">Action9</string>
+    <string name="bottom_sheet_dialog_action10">Action10</string>
+    <string name="bottom_sheet_dialog_action11">Action11</string>
+    <string name="bottom_sheet_dialog_action12">Action12</string>
 </resources>
