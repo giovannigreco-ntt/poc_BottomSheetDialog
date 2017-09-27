@@ -2,4 +2,10 @@
 <resources>
 	<string name="hello">Hello World, Click Me!</string>
 	<string name="app_name">POC_BottomSheetDialog.Droid</string>
+
+	<string name="bottom_sheet_dialog_title">Actions</string>
+    <string name="bottom_sheet_dialog_action1">Action1</string>
+    <string name="bottom_sheet_dialog_action2">Action2</string>
+    <string name="bottom_sheet_dialog_action3">Action3</string>
+    <string name="bottom_sheet_dialog_action4">Action4</string>
 </resources>
